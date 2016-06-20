@@ -82,7 +82,7 @@ function getCurrentSize(target, attr){
 /**
  * @param {string} sel Attribute selector 
  */
-export default function(selector, attr){
+export default const Blazed = (selector, attr) => {
   let currentImage
 
   if (typeof selector === 'object'){
