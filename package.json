@@ -1,6 +1,6 @@
 {
   "name": "blazed",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A little lazy loading library for size-specific CSS background images.",
   "main": "index.js",
   "scripts": {
