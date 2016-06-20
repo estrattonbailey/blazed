@@ -1,0 +1,29 @@
+{
+  "name": "blazed",
+  "version": "0.0.1",
+  "description": "A little lazy loading library for size-specific CSS background images.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/estrattonbailey/blazed.git"
+  },
+  "keywords": [
+    "background",
+    "images",
+    "background",
+    "lazy",
+    "load",
+    "lazy",
+    "srcset",
+    "responsive"
+  ],
+  "author": "estrattonbailey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/estrattonbailey/blazed/issues"
+  },
+  "homepage": "https://github.com/estrattonbailey/blazed#readme"
+}
